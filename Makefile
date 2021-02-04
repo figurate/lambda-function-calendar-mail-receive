@@ -1,6 +1,6 @@
 SHELL:=/bin/bash
 REGISTRY?=figurate
-IMAGE_NAME=lambda-function-python-template
+IMAGE_NAME=lambda-function-calendar-mail-receive
 TAGS?=latest
 BUILD_ARGS?=
 PYTHON_VERSION=3.8
